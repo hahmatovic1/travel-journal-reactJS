@@ -6,7 +6,6 @@ const element = <FontAwesomeIcon icon={faEarthEurope} />
 
 export default function NavBar(){
     return <nav className='nav'>
-        {element}
-    <h2>my travel journal</h2>
+    <h2>{element} my travel journal</h2>
   </nav>
 }

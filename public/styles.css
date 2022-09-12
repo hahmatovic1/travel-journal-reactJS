@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.nav {
+    margin: 0 auto;
+    padding: 5px;
+    background-color: cadetblue;
+}
