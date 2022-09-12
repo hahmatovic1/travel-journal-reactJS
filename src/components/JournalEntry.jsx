@@ -1,7 +1,8 @@
 import React from 'react';
+import Card from './Card';
 
 export default function JournalEntry(){
     return <div>
-        {/* display cards */}
+        <Card />
     </div>
 }
