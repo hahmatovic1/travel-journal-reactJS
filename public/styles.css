@@ -22,11 +22,11 @@ body{
 }
 
 .card h1{
-    margin: 5px;
+    margin: 5px 0;
 } 
 
 .card h4{
-    margin: 5px;
+    margin-top: 10px;
 }
 
 .card-img {
@@ -57,7 +57,7 @@ body{
 .card-location{
     margin: 2px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .card-line{
