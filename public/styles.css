@@ -2,17 +2,18 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Inter', sans-serif;
+    background-color:#F5F5F5;
 }
 
 .nav {
     margin: 0 auto 20px;
     padding: 5px;
-    background-color: cadetblue;
+    background-color: #F55A5A;
+    color: #2B283A;
 }
 
 .card {
     padding: 10px 0;
-    background-color: whitesmoke;
     margin: 0 auto 0;
     display: flex;
     flex-wrap: nowrap;
@@ -29,6 +30,7 @@ body{
 }
 
 .card-img {
+    margin: 0 0.5rem;
     height: 100%;
     width: 30rem;
     aspect-ratio: 16 / 9;
@@ -64,5 +66,5 @@ body{
     border: 0;
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.689);
 }
