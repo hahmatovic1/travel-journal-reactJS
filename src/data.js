@@ -17,7 +17,7 @@ const data = [
         startDate: "8 August, 2022",
         endDate: "10 August, 2022",
         description: "Sarajevo, capital of Bosnia and Herzegovina, is a compact city on the Miljacka River, surrounded by the Dinaric Alps. Its center has museums commemorating local history, including Sarajevo 1878–1918, which covers the 1914 assassination of Archduke Franz Ferdinand, an event that sparked World War I",
-        imageUrl: "http://source.unsplash.com/XqSkdJBzxt0"
+        imageUrl: "https://source.unsplash.com/x2Mu3L8bGDQ"
     },
     {
         id: 3,
