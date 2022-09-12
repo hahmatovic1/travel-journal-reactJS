@@ -1,5 +1,6 @@
 const data = [
     {
+        id: 1,
         title: "Mountain lodge Kraljevac",
         location: "Bosnia and Herzegovina",
         googleMapsUrl: "https://goo.gl/maps/bfFPXSpjdJTjX4SZ6",
@@ -9,6 +10,7 @@ const data = [
         imageUrl: "http://source.unsplash.com/sblp4evk2gs"
     },
     {
+        id: 2,
         title: "Sarajevo",
         location: "Bosnia and Herzegovina",
         googleMapsUrl: "https://goo.gl/maps/ZgsU4Q5HiGwZEQR47",
@@ -18,6 +20,7 @@ const data = [
         imageUrl: "http://source.unsplash.com/XqSkdJBzxt0"
     },
     {
+        id: 3,
         title: "Mostar",
         location: "Bosnia and Herzegovina",
         googleMapsUrl: "https://goo.gl/maps/gBx9bcKCDp4EpfyW9",
